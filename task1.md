@@ -2,7 +2,7 @@
 
 ## Описание и аналоги
 
-### Описание
+### Описание MVP
 
 Онлайн-платформа для заказа такси
 
@@ -26,7 +26,7 @@
 
 Крупнейшие игроки на рынке заказа Такси:
 - Яндекс.Такси (страны СНГ + международка Yango)
-- Uber (более 75 стран мира)
+- Uber
 - Lyft (США, Канада)
 - Gett
 
@@ -59,7 +59,5 @@
 
 Основные показатели:
 - MAU - 58 млн [источник](https://yastatic.net/s3/ir-docs/docs/2025/q3/25b90c11d0060d861ec0957dbbb96eeb/%D0%98%D0%BD%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0_3_%D0%BA%D0%B2_2025_060d.jpg)
-- DAU - 10 млн
-- Среднее число заказов за 1 день - 2 млн
-- Среднее время подачи - 6.2 минуты
-- Средняя длина поездки - 8.7 км
+- DAU - 5 млн [источник](https://investim.guru/obzory/skolko-polzovateley-polzuetsya-yandeks-taksi-v-den-statistika-i-aktualnye-dannye)
+- Средняя длина поездки - 8.7 км [источник](https://daily.afisha.ru/news/94080-v-2024-godu-rossiyane-proehali-na-yandeks-taksi-pochti-19-milliardov-kilometrov/)
